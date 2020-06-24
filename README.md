@@ -10,11 +10,17 @@ I organized the solutions in IPython notebooks that can be read online in github
 - [Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) of the lectures on YouTube
 - [Repository](https://github.com/SKKSaikia/CS229_ML) with the problem sets and many more resources for the course
 
-## Problem sets and solutions
+## [Problem sets](https://github.com/Joker14641/cs229/tree/master/Problem%20Sets) and solutions
 
-0. [Problem set 0](Problem Sets/Problem Set 0/ps0.pdf)
-   - [Solutions](Problem Sets/Problem Set 0/solutions0.ipynb)
+0. [Problem set 0](https://github.com/Joker14641/cs229/blob/master/Problem%20Sets/Problem%20Set%200/ps0.pdf)
+   - [Solutions](https://github.com/Joker14641/cs229/blob/master/Problem%20Sets/Problem%20Set%200/solutions0.ipynb)
   
-1. 
+1. [Problem set 1](https://github.com/Joker14641/cs229/blob/master/Problem%20Sets/Problem%20Set%201/ps1.pdf)
+
+2. [Problem set 2](https://github.com/Joker14641/cs229/blob/master/Problem%20Sets/Problem%20Set%202/ps2.pdf)
+
+3. [Problem set 3](https://github.com/Joker14641/cs229/blob/master/Problem%20Sets/Problem%20Set%203/ps3.pdf)
+
+4. [Problem set 4](https://github.com/Joker14641/cs229/blob/master/Problem%20Sets/Problem%20Set%204/ps4.pdf)
 
 
