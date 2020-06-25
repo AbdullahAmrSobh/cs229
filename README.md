@@ -16,7 +16,7 @@ I organized the solutions in IPython notebooks that can be read online in github
   - [Solutions](https://github.com/Joker14641/cs229/blob/master/Problem%20Sets/Problem%20Set%200/solutions0.ipynb) Please note that I added a small aside on differentials and Jacobians, which I will consistently use throughout the problem sets though they haven't been covered in the lectures.
   
 - [Problem set 1: Supervised Learning](https://github.com/Joker14641/cs229/blob/master/Problem%20Sets/Problem%20Set%201/ps1.pdf)
-  - [1. Linear Classifiers (logistic regression and GDA](https://github.com/Joker14641/cs229/blob/master/Problem%20Sets/Problem%20Set%201/PS1E1%20Linear%20Classifiers%20(logistic%20regression%20and%20GDA).ipynb)
+  - [1. Linear Classifiers (logistic regression and GDA)](https://github.com/Joker14641/cs229/blob/master/Problem%20Sets/Problem%20Set%201/PS1E1%20Linear%20Classifiers%20(logistic%20regression%20and%20GDA).ipynb)
   - [2. Incomplete, Positive-Only Labels](https://github.com/Joker14641/cs229/blob/master/Problem%20Sets/Problem%20Set%201/PS1E2%20Incomplete%2C%20Positive-Only%20Labels.ipynb)
   - [3. Poisson Regression](https://github.com/Joker14641/cs229/blob/master/Problem%20Sets/Problem%20Set%201/PS1E3%20Poisson%20Regression.ipynb)
   - [4. Convexity of Generalized Linear Models](https://github.com/Joker14641/cs229/blob/master/Problem%20Sets/Problem%20Set%201/PS1E4%20Convexity%20of%20Generalized%20Linear%20Models.ipynb)
